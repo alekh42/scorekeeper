@@ -1,0 +1,14 @@
+.winner
+{
+	color:green;
+}
+.loser
+{
+	color:red;
+}
+body
+{
+	background-color: pink;
+	margin: 250px 500px auto 400px;
+	border: 3px dashed gray
+}
